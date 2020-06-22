@@ -1,3 +1,5 @@
+2020年6月22日测试
+
 # Cloud189Checkin
 天翼云盘每日签到一次，抽奖2次  
 使用方法  
@@ -44,5 +46,3 @@ Actions > Cloud189Checkin > build
 
 此后，将会在每天10:00和22:00各签到一次  
 若有需求，可以在[.github/workflows/run.yml]中自行修改
-
-2020年6月22日测试
